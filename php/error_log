@@ -1,0 +1,22 @@
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 8
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 8
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 9
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 9
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 10
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 10
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 11
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 11
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/j3919707/public_html/m/php/functions.php on line 106
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 107
+[05-Dec-2014 09:19:26 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 107
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 8
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 8
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 9
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 9
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 10
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 10
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 11
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 11
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/j3919707/public_html/m/php/functions.php on line 106
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'j3919707'@'localhost' (using password: NO) in /home/j3919707/public_html/m/php/functions.php on line 107
+[05-Dec-2014 15:14:16 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/j3919707/public_html/m/php/functions.php on line 107
